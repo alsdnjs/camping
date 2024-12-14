@@ -1,0 +1,9 @@
+spring:
+    application:
+        name : camping
+
+    datasource:
+        url: jdbc:mysql://localhost:3306/ictedu_db
+        username: ictedu
+        password: 1111
+        driver-class-name: com.mysql.cj.jdbc.Driver
